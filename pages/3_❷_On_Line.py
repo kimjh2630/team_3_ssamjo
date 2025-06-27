@@ -16,7 +16,7 @@ plt.rcParams["font.family"] = "Malgun Gothic"
 plt.rcParams["axes.unicode_minus"] = False
 
 # CSV 파일 경로
-CSV_FILE_PATH = "https://raw.githubusercontent.com/jjjjunn/YH_project/refs/heads/main/recycling_online.csv"
+CSV_FILE_PATH = "https://raw.githubusercontent.com/kimjh2630/team_3_ssamjo/refs/heads/main/recycling_online.csv"
 
 # 색상 팔레트 설정
 palette = px.colors.qualitative.Set2

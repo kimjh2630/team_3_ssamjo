@@ -23,7 +23,7 @@ plt.rcParams["font.family"] = "Malgun Gothic"
 plt.rcParams["axes.unicode_minus"] = False
 
 # CSV 파일 경로 설정
-CSV_FILE_PATH = "https://raw.githubusercontent.com/jjjjunn/YH_project/refs/heads/main/"
+CSV_FILE_PATH = "https://raw.githubusercontent.com/kimjh2630/team_3_ssamjo/refs/heads/main/"
 
 off_csv = "recycling_off.csv"
 on_csv = "recycling_online.csv"
